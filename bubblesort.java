@@ -22,7 +22,7 @@ public class BubbleSort{
 	}
 	
 	System.out.println(" ");
-	System.out.println("After Sorting");
+	System.out.println("After Sorting of array");
 	int temp;
 	for(int i=0;i<n-1;i++)
 	{
